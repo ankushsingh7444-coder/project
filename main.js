@@ -6,8 +6,8 @@
 
 document.addEventListener('DOMContentLoaded', () => {
   // --- Constants & Contact Configuration ---
-  const WHATSAPP_NUMBER = '917007937097';
-  const ALT_PHONE = '9039179374';
+  const WHATSAPP_NUMBER = '+91 9424411083';
+  const ALT_PHONE = '+91 9424411083';
   const EMAIL_ID = 'asenterprises2026as@gmail.com';
 
   // --- Mobile Navigation ---
